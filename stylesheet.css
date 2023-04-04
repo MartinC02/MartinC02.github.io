@@ -1,4 +1,6 @@
 div {
     max-width: 576px;
     margin: auto;
+    border: 20px solid white;
+    border-radius: 10px;
 }

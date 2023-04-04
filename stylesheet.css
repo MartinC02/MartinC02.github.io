@@ -1,8 +1,10 @@
-.rounded-corners {
+.style {
     border-radius: 15px;
+    background-color: white;
+    max-width: 576px;
 }
 
-.background {
-    background-color: white;
-    max-width: 576;
+.rounded-corners {
+    border-radius: 15px;
+
 }

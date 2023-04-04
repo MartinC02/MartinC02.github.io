@@ -4,4 +4,5 @@
 
 .background {
     background-color: white;
+    max-width: 576;
 }

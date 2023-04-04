@@ -4,3 +4,12 @@ div {
     border: 20px solid white;
     border-radius: 10px;
 }
+
+#rcorners {
+    border-radius: 15px;
+    background: url("/images/image-qr-code.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 576px;
+    height: auto;
+}

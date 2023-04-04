@@ -1,4 +1,4 @@
 div {
-    width: 576px;
+    max-width: 576px;
     margin: auto;
 }

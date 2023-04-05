@@ -9,3 +9,12 @@ img {
     margin: 0px auto;
     max-width: fit-content;
 }
+
+.text {
+    font-family: 'Outfit', sans-serif;
+    padding: 5px 20px;
+}
+
+p {
+    font-size: 15px;
+}

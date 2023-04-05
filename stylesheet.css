@@ -40,7 +40,14 @@ body {
         box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.2);
     }
     img {
-        width: 70%;
-        height: 70%;
+        width: 80%;
+        height: 80%;
+    }
+    h1 {
+        padding: 0px 40px;
+    }
+    p {
+        font-size: 15px;
+        padding: 0px 700px;
     }
 }

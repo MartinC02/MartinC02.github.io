@@ -19,3 +19,8 @@ img {
 p {
     font-size: 15px;
 }
+
+body {
+    background-color: hsl(212, 45%, 89%);
+    text-align: center;
+}
